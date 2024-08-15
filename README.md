@@ -49,4 +49,4 @@ Como meta de vida o sueño, me gustaría participar en algún proyecto que tenga
 
 ***
 
-![Foto](https://media.gifdb.com/nintendo-super-mario-3d-pixel-art-animation-djgq0is0hhy0y7li.gif)
+![Mario](https://media.gifdb.com/nintendo-super-mario-3d-pixel-art-animation-djgq0is0hhy0y7li.gif)
