@@ -39,7 +39,7 @@ Como meta de vida o sueño, me gustaría participar en algún proyecto que tenga
 - CS:GO
 - The Witcher 3
 - GTA V
-- Mario Bross (todos)
+- Mario Bros (todos)
 - Clash Royale    
 
 ### _**Contacto**_
@@ -49,4 +49,4 @@ Como meta de vida o sueño, me gustaría participar en algún proyecto que tenga
 
 ***
 
-![Mario](https://media.gifdb.com/nintendo-super-mario-3d-pixel-art-animation-djgq0is0hhy0y7li.gif)
+![Mario](https://www.nintendo.com/eu/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_SuperMarioBros.jpg)
