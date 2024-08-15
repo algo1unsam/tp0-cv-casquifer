@@ -1,4 +1,52 @@
 # TP0-CV
 
+# **Rodrigo CASCO**
 
-###Hola 
+## **Programador frontend y backend**
+
+### _**Experiencia Laboral**_
+
+- Loops - Desarrollador (2016 - Actualidad)
+    - Diseño Web  y Apps - HTML5, CCS 3 y JS
+    - Videojuegos - Phaser JS
+
+- CNEA - Desarrollador de Sistemas (2012 - Actualidad)
+    - Backend - PHP, Phyton, JS, MSQL
+    - Docker
+    - Laravel
+    - Git
+    - Linux
+
+### _**Estudios**_
+
+- Secundario Completo - Dra. Cecilia Grierson - 2000 a 2004
+- Tecnicatura en Programación Informática - UNSAM - 2022 a Actualidad (Cursando el segundo año)
+- Cursos:
+    - Programador Web (HTML, JavaScript y CSS3) - IT MASTER - 84 hs
+    - Python - UNSAM - 90 hs
+    - PHP y MYSQL - UDEMY - 20 hs
+
+### _**Acerca de mi**_
+
+Mi nombre es Rodrigo, tengo 37 años, soy de San Martín, en pareja sin hijos, tengo 3 perros y mis hobbies son los videojuegos. Me gusta viajar, conocer lugares nuevos principalmente si puedo conocer una cultura distinta a la mia mejor.
+Soy una persona proactiva, positiva, curiosa, respetuosa, puntual y por sobre todo, muy empática.
+Como meta de vida o sueño, me gustaría participar en algún proyecto que tenga trasendencia, ya sea en un videojuego o en un sistema.
+
+### _**Videojuegos Favoritos**_
+
+- Playerunknown’s Battlegrounds
+- Apex Legends
+- CS:GO
+- The Witcher 3
+- GTA V
+- Mario Bros (todos)
+- Clash Royale    
+
+### _**Contacto**_
+
+- mail: rodrigo.casco@live.com.ar
+- tel: 1122334455
+
+***
+
+![Mario](https://www.nintendo.com/eu/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_SuperMarioBros.jpg)
